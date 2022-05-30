@@ -1,0 +1,22 @@
+Searching 197 files for "cabin"
+
+C:\Users\LABKOM-RPL\Downloads\startbootstrap-freelancer-gh-pages\website-profil\index.html:
+   71                                  <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+   72                              </div>
+   73:                             <img class="img-fluid" src="assets/img/portfolio/cabin.jpg" alt="..." />
+   74                          </div>
+   75                      </div>
+   ..
+  266                                  <div class="col-lg-8">
+  267                                      <!-- Portfolio Modal - Title-->
+  268:                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+  269                                      <!-- Icon Divider-->
+  270                                      <div class="divider-custom">
+  ...
+  274                                      </div>
+  275                                      <!-- Portfolio Modal - Image-->
+  276:                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+  277                                      <!-- Portfolio Modal - Text-->
+  278                                      <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+
+3 matches in 1 file
